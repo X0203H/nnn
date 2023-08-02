@@ -1,0 +1,868 @@
+{
+  "data": {
+    "sortData": [
+      {
+        "id": "sort-1",
+        "name": "手机壳",
+        "pic": "/types/types_pic01.jpg",
+        "details": [
+          {
+            "id": "sortChild-13",
+            "name": "红米k50 k50pro手机壳液态",
+            "imageUrl": "/types/types_pro_01.jpg",
+            "payment": "先用后付",
+            "Events": "立减5元",
+            "num": 1,
+            "state": false,
+            "money": 1.9,
+            "SpellIt": 604,
+            "review": [
+              {
+                "user": "asi",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "磨砂奶白",
+                "test": "磨砂手机壳，摸起来很丝滑",
+                "giveALike": 16,
+                "picArr": []
+              },
+              {
+                "user": "初音未来",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "磨砂奶白",
+                "test": "有了手机壳，在不怕手机摔了",
+                "giveALike": 16,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-14",
+            "name": "红米k50 k50pro手机壳液态",
+            "payment": "先用后付",
+            "imageUrl": "/types/types_pro_02.jpg",
+            "Events": "快点每200减30",
+            "num": 1,
+            "state": false,
+            "money": 25.46,
+            "SpellIt": 1688,
+            "review": [
+              {
+                "user": "asi2",
+                "ctime": "2022.10.13",
+                "LeaveMsg": "卡通华为",
+                "test": "黑色炫酷风，就是帅",
+                "giveALike": 20,
+                "picArr": []
+              },
+              {
+                "user": "asi2",
+                "ctime": "2022.10.13",
+                "LeaveMsg": "卡通华为",
+                "test": "奶白奶白的手机壳，看着就可爱",
+                "giveALike": 20,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-15",
+            "name": "iphone14 pro max 炫酷发光手机壳",
+            "payment": "先用后付",
+            "Events": "关注立减6元",
+            "imageUrl": "/types/types_pro_03.jpg",
+            "num": 1,
+            "state": false,
+            "money": 3.9,
+            "SpellIt": 1677,
+            "review": [
+              {
+                "user": "wei",
+                "ctime": "2021.10.13",
+                "LeaveMsg": "奶白后盖",
+                "test": "性价比高，耐看，耐用，手感贼好",
+                "giveALike": 100,
+                "picArr": []
+              },
+              {
+                "user": "黄少爷",
+                "ctime": "2021.10.13",
+                "LeaveMsg": "奶白后盖",
+                "test": "性价比高，手机壳摸起来也很舒服",
+                "giveALike": 100,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-16",
+            "name": "OPPOa5手机壳男潮流炫酷r",
+            "payment": "先用后付",
+            "Events": "一年低价",
+            "imageUrl": "/types/types_pro_04.jpg",
+            "num": 1,
+            "money": 2.97,
+            "state": false,
+            "SpellIt": 2140,
+            "review": [
+              {
+                "user": "zhang",
+                "ctime": "2022.11.23",
+                "LeaveMsg": "皮卡丘发光手机壳",
+                "test": "好看可爱，摸起来也很舒服",
+                "giveALike": 1120,
+                "picArr": []
+              },
+              {
+                "user": "jiale",
+                "ctime": "2022.11.23",
+                "LeaveMsg": "皮卡丘发光手机壳",
+                "test": "卡通皮卡丘，电光耗子",
+                "giveALike": 1120,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-17",
+            "name": "Redmi红米K50 K50pro枫叶冰若雨",
+            "payment": "先用后付",
+            "Events": "关注立减6元",
+            "imageUrl": "/types/types_pro_01.jpg",
+            "num": 1,
+            "state": false,
+            "money": 3.9,
+            "SpellIt": 1688,
+            "review": [
+              {
+                "user": "ye",
+                "ctime": "2019.10.13",
+                "LeaveMsg": "枫叶",
+                "test": "炫酷的枫叶图标，看起来非常凉爽",
+                "giveALike": 25,
+                "picArr": []
+              },
+              {
+                "user": "无情哈拉少",
+                "ctime": "2019.10.13",
+                "LeaveMsg": "枫叶",
+                "test": "打小就喜欢枫叶图标的手机壳，看着就帅，这个商家终于是让我找到了，很喜欢",
+                "giveALike": 25,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-18",
+            "name": "红米k50 k50pro手机壳液态",
+            "payment": "先用后付",
+            "Events": "立减5元",
+            "imageUrl": "/types/types_pro_02.jpg",
+            "num": 1,
+            "state": false,
+            "money": 4.9,
+            "SpellIt": 604,
+            "review": [
+              {
+                "user": "asi",
+                "ctime": "2022.10.13",
+                "LeaveMsg": "炫酷红",
+                "test": "很好用",
+                "giveALike": 16,
+                "picArr": []
+              },
+              {
+                "user": "呜呜呜",
+                "ctime": "2022.10.13",
+                "LeaveMsg": "炫酷红",
+                "test": "非常喜欢，下次还来啊",
+                "giveALike": 16,
+                "picArr": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sort-2",
+        "name": "方便面",
+        "pic": "/types/types_pic02-03.jpg"
+      },
+      {
+        "id": "sort-3",
+        "name": "耳机/耳麦",
+        "pic": "/types/types_pic02.jpg",
+        "details": [
+          {
+            "id": "sortChild-7",
+            "name": "华强北新款五代真无线蓝牙耳机",
+            "payment": "先用后付",
+            "Events": "立减5元",
+            "imageUrl": "/types/types_pro_05.jpg",
+            "num": 1,
+            "state": false,
+            "money": 23.73,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "然",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "典藏版【全功能+原声音质+长续航】",
+                "test": "颜值在线啊呀，用起来也很好野!",
+                "giveALike": 22,
+                "picArr": []
+              },
+              {
+                "user": "然er",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "典藏版【全功能+原声音质+长续航】",
+                "test": "方便携带，音质也很好",
+                "giveALike": 22,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-8",
+            "name": "数显蓝牙耳机真无限入耳式运动降噪2023新款",
+            "payment": "先用后付",
+            "Events": "立减5元",
+            "imageUrl": "/types/types_pro_06.jpg",
+            "num": 1,
+            "state": false,
+            "money": 38.8,
+            "SpellIt": 2735,
+            "review": [
+              {
+                "user": "厚植",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "Hei/炫黑【试用90天 新款首发】",
+                "test": "音质很棒，很流畅，蓝牙连接也很快",
+                "giveALike": 1,
+                "picArr": []
+              },
+              {
+                "user": "耿直的人",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "Hei/炫黑【试用90天 新款首发】",
+                "test": "很流畅，音质很好，方便携带，商家很好，还送了一个耳机套",
+                "giveALike": 1,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-9",
+            "name": "适用于苹果13pro/12pro/11x/xr/xs新款蓝牙耳机",
+            "payment": "先用后付",
+            "Events": "旗舰店",
+            "imageUrl": "/types/types_pro_07.jpg",
+            "num": 1,
+            "state": false,
+            "money": 25.5,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "A1石头",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "旗舰店12D音质+礼包 颜色：炫酷黑",
+                "test": "宝贝很快收到了，很好用，物美廉价，这个宝贝正是我需要的",
+                "giveALike": 1,
+                "picArr": []
+              },
+              {
+                "user": "B2山海",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "旗舰店12D音质+礼包 颜色：透明白",
+                "test": "后天就要用了，今天收到了，物流很快，很喜欢",
+                "giveALike": 1,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-10",
+            "name": "无线蓝牙耳机高音质双耳入迷听音乐",
+            "payment": "先用后付",
+            "Events": "旗舰店",
+            "imageUrl": "/types/types_pro_08.jpg",
+            "num": 1,
+            "state": false,
+            "money": 39.8,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "小鳄鱼",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "[升级版]高性价比+三年质保 套餐：顶配版蓝牙耳机",
+                "test": "佩戴感受：很好，续航能力：非常好，耗电体验：很好，电量描述：很好",
+                "giveALike": 1,
+                "picArr": []
+              },
+              {
+                "user": "大鲨鱼",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "[升级版]高性价比+三年质保 套餐：顶配版蓝牙耳机",
+                "test": "戴着它感觉整个人都被音乐包围了，用了一天也还有电，耗电不快，充电很快",
+                "giveALike": 1,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-11",
+            "name": "华强北新款四代真无线蓝牙耳机",
+            "payment": "先用后付",
+            "Events": "立减6元",
+            "imageUrl": "/types/types_pro_05.jpg",
+            "num": 1,
+            "state": false,
+            "money": 19.77,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "促织",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "典藏版：【全功能+原声音质+长续航】",
+                "test": "非常beautiful没有杂音打电话也方便，方便携带，不会容易断链",
+                "giveALike": 1,
+                "picArr": []
+              },
+              {
+                "user": "林木",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "典藏版：【全功能+原声音质+长续航】",
+                "test": "非常好用，连上以后都不容易断开，以前买的耳机老是断，体验感极差",
+                "giveALike": 1,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-12",
+            "name": "四代五无线蓝牙耳机入耳",
+            "payment": "先用后付",
+            "Events": "立减10元",
+            "imageUrl": "/types/types_pro_06.jpg",
+            "num": 1,
+            "state": false,
+            "money": 25.8,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "林子",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "至臻版【全功能+原版音质+长续航】",
+                "test": "耳机刚刚到就用了，音质真的非常好，续航也很赞，戴上耳机真的听得很舒服",
+                "giveALike": 20,
+                "picArr": []
+              },
+              {
+                "user": "大叔",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "至臻版【全功能+原版音质+长续航】",
+                "test": "戴上耳机睡觉是真的舒服",
+                "giveALike": 20,
+                "picArr": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sort-4",
+        "name": "降温用品",
+        "pic": "/types/types_pic01.jpg"
+      },
+      {
+        "id": "sort-5",
+        "name": "智能机",
+        "pic": "/types/types_pic02-03.jpg"
+      },
+      {
+        "id": "sort-6",
+        "name": "碗筷餐具",
+        "pic": "/types/types_pic02.jpg"
+      },
+      {
+        "id": "sort-7",
+        "name": "二手手机",
+        "pic": "/types/types_pic01.jpg"
+      },
+      {
+        "id": "sort-8",
+        "name": "电脑周边",
+        "pic": "/types/types_pic02-03.jpg"
+      },
+      {
+        "id": "sort-9",
+        "name": "蓝牙耳机",
+        "pic": "/types/types_pic02.jpg"
+      },
+      {
+        "id": "sort-10",
+        "name": "休闲男鞋",
+        "pic": "/types/types_pic01.jpg"
+      },
+      {
+        "id": "sort-11",
+        "name": "男款老爹鞋",
+        "pic": "/types/types_pic02-03.jpg"
+      },
+      {
+        "id": "sort-12",
+        "name": "电风扇",
+        "pic": "/types/types_pic02.jpg"
+      },
+      {
+        "id": "sort-13",
+        "name": "手机贴膜",
+        "pic": "/types/types_pic01.jpg"
+      },
+      {
+        "id": "sort-14",
+        "name": "帆布男鞋",
+        "pic": "/types/types_pic02.jpg",
+        "details": [
+          {
+            "id": "sortChild-1",
+            "name": "春夏季帆布男学生布鞋低帮运动板鞋",
+            "payment": "先用后付",
+            "Events": "一年低价",
+            "imageUrl": "/types/types_pro_09.jpg",
+            "num": 1,
+            "state": false,
+            "money": 29.9,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "70后",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "经典款-黑色 尺码：37码女孩",
+                "test": "两双休闲鞋已收到，物流很快，与描述的一样，是我喜欢的颜色和风格，很好看",
+                "giveALike": 22,
+                "picArr": []
+              },
+              {
+                "user": "80后",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "经典款-黑色 尺码：37码女孩",
+                "test": "是我喜欢的样子，很好看",
+                "giveALike": 22,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-2",
+            "name": "回力帆布鞋男低帮板鞋女鞋正品回力男鞋帆布鞋运动百搭学生情侣鞋",
+            "payment": "先用后付",
+            "Events": "30天低价",
+            "imageUrl": "/types/types_pro_10.jpg",
+            "num": 1,
+            "state": false,
+            "money": 69,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "陈永发",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "经典国潮/黑色 鞋码：42",
+                "test": "做工细致很好，尺码也很合脚，回力品牌休闲鞋，穿上很透气，颜色款式很棒",
+                "giveALike": 22,
+                "picArr": []
+              },
+              {
+                "user": "周润发",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "经典国潮/黑色 鞋码：42",
+                "test": "做工很细致，每一处的细节都注意到了，也是我喜欢的颜色，非常喜欢",
+                "giveALike": 22,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-3",
+            "name": "帆布鞋男帮学生情侣男鞋潮百搭布鞋春夏季球鞋迷",
+            "payment": "先用后付",
+            "Events": "退货包运费",
+            "imageUrl": "/types/types_pro_11.jpg",
+            "num": 1,
+            "state": false,
+            "money": 39.9,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "0.2%",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "9001低帮黑色 鞋码：40",
+                "test": "质量特别好，没有异味，穿起来很舒服的样子，版型很正码我是按照平时穿的鞋码拍的",
+                "giveALike": 7,
+                "picArr": []
+              },
+              {
+                "user": "01%",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "9001低帮黑色 鞋码：40",
+                "test": "低帮就是穿着凉爽，也很好看，百搭",
+                "giveALike": 7,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-4",
+            "name": "环球男鞋子2023新款绿色帆布鞋夏季百搭国潮鞋子学生低帮平底板鞋",
+            "payment": "先用后付",
+            "Events": "历史低价",
+            "imageUrl": "/types/types_pro_12.jpg",
+            "num": 1,
+            "state": false,
+            "money": 69,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "又耳",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "米白色 鞋码：43",
+                "test": "无论材质还是做工都超出了预期，超值，穿起来也很好看哦，卖家发货也比预计的要快很多",
+                "giveALike": 7,
+                "picArr": []
+              },
+              {
+                "user": "你好啊",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "米白色 鞋码：43",
+                "test": "鞋子很美，也很百搭，穿上去人更自信了",
+                "giveALike": 7,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-5",
+            "name": "回力经典帆布鞋高帮男2023夏季新款休闲帆布鞋ins",
+            "payment": "先用后付",
+            "Events": "品质险",
+            "imageUrl": "/types/types_pro_10.jpg",
+            "num": 1,
+            "state": false,
+            "money": 75,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "消音",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "【深蓝色】 鞋码：41",
+                "test": "回力鞋收到，发货迅速，包装完好",
+                "giveALike": 7,
+                "picArr": []
+              },
+              {
+                "user": "魔影",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "【深蓝色】 鞋码：41",
+                "test": "牌子货就是好，发货很快，服务也很好",
+                "giveALike": 7,
+                "picArr": []
+              }
+            ]
+          },
+          {
+            "id": "sortChild-6",
+            "name": "卡帝乐鳄鱼男鞋夏季休闲白塔运动高帮板鞋青少年潮流百搭帆布鞋男",
+            "payment": "先用后付",
+            "Events": "旗舰店",
+            "imageUrl": "/types/types_pro_09.jpg",
+            "num": 1,
+            "state": false,
+            "money": 59,
+            "SpellIt": 10,
+            "review": [
+              {
+                "user": "晚风",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "黑色【官方旗舰店高品质】 鞋码：42",
+                "test": "很舒服，超级好看，今天被同事夸了，鞋码标准的很，穿一天也不捂脚",
+                "giveALike": 11,
+                "picArr": []
+              },
+              {
+                "user": "故事与你",
+                "ctime": "2022.12.13",
+                "LeaveMsg": "黑色【官方旗舰店高品质】 鞋码：42",
+                "test": "穿着的感觉像是飞起来了一样，很舒服，不捂脚",
+                "giveALike": 11,
+                "picArr": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sort-15",
+        "name": "大码男装",
+        "pic": "/types/types_pic02-03.jpg"
+      },
+      {
+        "id": "sort-16",
+        "name": "防护用品",
+        "pic": "/types/types_pic02.jpg"
+      }
+    ],
+    "IndexData": {
+      "foodData": [
+        {
+          "id": "food-1",
+          "name": "休闲零食",
+          "img": ""
+        },
+        {
+          "id": "food-2",
+          "name": "粮油速食",
+          "img": ""
+        },
+        {
+          "id": "food-3",
+          "name": "乳品速食",
+          "img": ""
+        },
+        {
+          "id": "food-4",
+          "name": "饼干糕点",
+          "img": ""
+        },
+        {
+          "id": "food-5",
+          "name": "地方农货",
+          "img": ""
+        },
+        {
+          "id": "food-6",
+          "name": "坚果蜜蘸",
+          "img": ""
+        },
+        {
+          "id": "food-7",
+          "name": "营养保健",
+          "img": ""
+        },
+        {
+          "id": "food-8",
+          "name": "茶叶",
+          "img": ""
+        },
+        {
+          "id": "food-9",
+          "name": "中外名酒",
+          "img": ""
+        },
+        {
+          "id": "food-10",
+          "name": "滋补养生",
+          "img": ""
+        }
+      ],
+      "data": [
+        {
+          "id": "index-1",
+          "name": "白象方便面混合装多口味整箱发货",
+          "payment": "先用后付",
+          "Events": "立减1元 90天低价",
+          "num": 1,
+          "money": 12.8,
+          "SpellIt": 604,
+          "pic": "",
+          "review": [
+            {
+              "user": "asi",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "1箱24包",
+              "test": "口味很多，商家很贴心还多送了几包过来，发货速度也很快",
+              "giveALike": 22,
+              "picArr": []
+            },
+            {
+              "user": "cheng",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "1箱24包",
+              "test": "口味非常好，好吃不腻，这辈子没见过这么好吃的方便面",
+              "giveALike": 22,
+              "picArr": []
+            }
+          ]
+        },
+        {
+          "id": "index-2",
+          "name": "手撕牛排素肉豆干素牛肉网红零食豆腐干皮发货休闲小吃辣条豆制品",
+          "payment": "先用后付",
+          "Events": "退货包运费",
+          "num": 1,
+          "money": 5.9,
+          "SpellIt": 604,
+          "pic": "",
+          "review": [
+            {
+              "user": "愿我心安",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "素牛排【烧烤味】 套餐：买50送50",
+              "test": "满满的一大包，味道好极了",
+              "giveALike": 22,
+              "picArr": []
+            },
+            {
+              "user": "叶晨",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "素牛排【烧烤味】 套餐：买50送50",
+              "test": "买了几箱，有事没事的吃几包，一吃就停不下来",
+              "giveALike": 22,
+              "picArr": []
+            }
+          ]
+        },
+        {
+          "id": "index-3",
+          "name": "无限大素大刀肉辣条8090后儿时怀旧解馋小零食小吃休闲食品大礼包",
+          "payment": "先用后付",
+          "Events": "坏了包赔",
+          "num": 1,
+          "money": 4.9,
+          "SpellIt": 604,
+          "pic": "",
+          "review": [
+            {
+              "user": "极品混混",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "大刀肉150个装【限时活动特价】",
+              "test": "东西收到了，很满意，是我想要的那种，每次买东西我都会根据价格，质量和评价进行参考，最后选择我满意的一家",
+              "giveALike": 22,
+              "picArr": []
+            },
+            {
+              "user": "小品混混",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "大刀肉150个装【限时活动特价】",
+              "test": "在家里屯了几箱，吃饭的时候都不忘拿他来下饭",
+              "giveALike": 22,
+              "picArr": []
+            }
+          ]
+        },
+        {
+          "id": "index-4",
+          "name": "岩烧酪吐司面包整箱小蛋糕类零食食品休闲早餐速食王洪刚夜宵代餐",
+          "payment": "先用后付",
+          "Events": "满100减5",
+          "num": 1,
+          "money": 6.6,
+          "SpellIt": 604,
+          "pic": "",
+          "review": [
+            {
+              "user": "翔宇库张剑波",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "【4种口味混合】强烈推荐 套餐：买32片送10片",
+              "test": "味道很棒，有时候早上忙不得吃早餐，搞点这个牛奶面包还是非常不错的，好吃的，满满的一大箱",
+              "giveALike": 22,
+              "picArr": []
+            },
+            {
+              "user": "黄振波",
+              "ctime": "2022.12.13",
+              "LeaveMsg": "【4种口味混合】强烈推荐 套餐：买32片送10片",
+              "test": "小时候就爱吃这个牛奶面包，长大了更爱吃了",
+              "giveALike": 22,
+              "picArr": []
+            }
+          ]
+        }
+      ]
+    },
+    "timeLimit": {
+      "swarm": [
+        {
+          "id": "swarm-1",
+          "subject": "数码爆款直",
+          "imgUrl": "",
+          "money": 1845,
+          "num": 2640
+        },
+        {
+          "id": "swarm-2",
+          "subject": "黄金珠宝爆",
+          "imgUrl": "",
+          "money": 141,
+          "num": 1124
+        },
+        {
+          "id": "swarm-3",
+          "subject": "厨房万人团",
+          "imgUrl": "",
+          "money": 9.23,
+          "num": 6064
+        },
+        {
+          "id": "swarm-4",
+          "subject": "生鲜好价超",
+          "imgUrl": "",
+          "money": 2.3,
+          "num": 10
+        },
+        {
+          "id": "swarm-5",
+          "subject": "飞天茅台",
+          "imgUrl": "",
+          "money": 5290,
+          "num": 6955
+        },
+        {
+          "id": "swarm-6",
+          "subject": "顾家家具万",
+          "imgUrl": "",
+          "money": 859,
+          "num": 291
+        }
+      ],
+      "product": [
+        {
+          "title": "康师傅",
+          "proImg": "",
+          "id": "pro-1",
+          "name": "经典康师傅老坛酸菜方便面",
+          "num": 629,
+          "InstantKilling": 10.99
+        },
+        {
+          "title": "盐津铺子",
+          "proImg": "",
+          "id": "pro-2",
+          "name": "盐津铺子全肉零食大礼包",
+          "num": 7301,
+          "InstantKilling": 6.75
+        }
+      ],
+      "other": [
+        {
+          "id": "other-1",
+          "otherImg": "",
+          "name": "无味洗衣液"
+        },
+        {
+          "id": "other-2",
+          "otherImg": "",
+          "name": "拍照神器"
+        },
+        {
+          "id": "other-3",
+          "otherImg": "",
+          "name": "多功能游戏棋"
+        },
+        {
+          "id": "other-4",
+          "otherImg": "",
+          "name": "转换器插座"
+        }
+      ]
+    }
+  }
+}
