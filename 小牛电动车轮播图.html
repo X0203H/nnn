@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .slideshow-container {
+            position: relative;
+            width: 100%;
+            height: 500px;
+        }
+
+        .slideshow-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: none;
+        }
+
+        .slideshow-image.fade {
+            animation-name: fade;
+            animation-duration: 1s;
+        }
+
+        .slideshow-dot {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            margin: 0 5px;
+            border-radius: 50%;
+            background-color: red;
+        }
+
+        .slideshow-dot.active {
+            background-color: #717171;
+        }
+
+        @keyframes fade {
+            from {
+                opacity: 0
+            }
+            to {
+                opacity: 1
+            }
+        }
+
+    </style>
+</head>
+<body>
+<div class="slideshow-container">
+    <div class="slideshow-image fade">
+        <img src="./images/banner1.jpg" alt="Slide 1">
+    </div>
+    <div class="slideshow-image fade">
+        <img src="./images/banner2.jpg" alt="Slide 2">
+    </div>
+    <div class="slideshow-image fade">
+        <img src="./images/banner3.jpg" alt="Slide 3">
+    </div>
+</div>
+<br>
+<div style="text-align:center">
+    <span class="slideshow-dot"></span>
+    <span class="slideshow-dot"></span>
+    <span class="slideshow-dot"></span>
+</div>
+
+</body>
+<script>
+    // 轮播图自动切换时间
+    const SLIDESHOW_INTERVAL_TIME = 3000;
+
+    let slideshowIndex = 0;
+    let slideshowInterval;
+
+    // 显示当前轮播图
+    function showSlideshow() {
+        let images = document.getElementsByClassName("slideshow-image");
+        let dots = document.getElementsByClassName("slideshow-dot");
+
+        // 隐藏所有图片和小圆点
+        for (let i = 0; i < images.length; i++) {
+            images[i].style.display = "none";
+        }
+        for (let i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+
+        // 显示当前图片和小圆点
+        images[slideshowIndex].style.display = "block";
+        dots[slideshowIndex].className += " active";
+
+        // 自动切换到下一张图片
+        slideshowIndex++;
+        if (slideshowIndex >= images.length) {
+            slideshowIndex = 0;
+        }
+        slideshowInterval = setTimeout(showSlideshow, SLIDESHOW_INTERVAL_TIME);
+    }
+
+    // 点击小圆点切换图片
+    function jumpToSlideshow(index) {
+        slideshowIndex = index;
+        clearTimeout(slideshowInterval);
+        showSlideshow();
+    }
+
+    // 页面加载完成后开始轮播
+    window.onload = showSlideshow;
+
+</script>
+</html>

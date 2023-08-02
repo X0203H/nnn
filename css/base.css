@@ -1,0 +1,144 @@
+/* 样式说明
+最大优先实现法，全局能实现不用区域，区域能实现不用模板大模板能实现不用界面，界面能实现不用标签大
+g - 全局
+t - 区域
+m - 区域
+ui - 界面
+lb - 标签
+特殊标签
+j - 脚本
+* fix -浮窗 */
+/* 格式化页面 */
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+input,
+figure,
+figcaption {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei",
+    "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", sans-serif;
+  color: #333;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+input,
+img,
+table {
+  outline: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  text-decoration: none;
+  list-style: none;
+}
+a {
+  color: #333;
+  text-decoration: none;
+}
+a,
+a:hover {
+  transition: all 0.3s ease-out 0s;
+}
+
+a:focus {
+  color: #509524;
+  text-decoration: none;
+}
+/* 定义各种字体的大小 */
+.font14 {
+  font-size: 14px;
+}
+.font16 {
+  font-size: 16px;
+}
+/* 定义浮动和清除浮动 */
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.clearfix {
+  content: "";
+  clear: both;
+  display: block;
+  overflow: hidden;
+}
+/* 页面定位 */
+.pos-re {
+  position: relative;
+}
+.pos-ab {
+  position: absolute;
+}
+/* 文字截取 */
+.conceal {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.conceal2 {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+/* 定义下划线和上划线 */
+.bb {
+  border-bottom: 1px solid #f2f2f2;
+}
+.bt {
+  border-top: 1px solid #f2f2f2;
+}
+/* 定义各种margin和padding值 */
+.mg10 {
+  margin: 10px;
+}
+.mg10_0 {
+  margin: 10px 0;
+}
+.mgt10 {
+  margin-top: 10px;
+}
+.mgb10 {
+  margin-bottom: 10px;
+}
+.pdt10 {
+  padding-top: 10px;
+}
+.pdb10 {
+  padding-bottom: 10px;
+}
+/* 显示与隐藏 */
+.hide {
+  display: none;
+}
+.block {
+  display: block;
+}

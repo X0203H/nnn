@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3971072 */
+  src: url('iconfont.woff2?t=1679560058110') format('woff2'),
+       url('iconfont.woff?t=1679560058110') format('woff'),
+       url('iconfont.ttf?t=1679560058110') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-weixin:before {
+  content: "\e600";
+}
+
+.icon-iphone:before {
+  content: "\e68a";
+}
+
+.icon-changyonglogo37:before {
+  content: "\e71e";
+}
+
+.icon-weibo:before {
+  content: "\e608";
+}
+
+.icon-jurassic_user:before {
+  content: "\e6a4";
+}
+
+.icon-bilibili-line:before {
+  content: "\e75d";
+}
+
+.icon-douyin:before {
+  content: "\e8db";
+}
+
+.icon-kuaishou:before {
+  content: "\e8dc";
+}
+
